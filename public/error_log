@@ -1,0 +1,123 @@
+[17-Sep-2024 13:34:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 367005696 bytes) in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Controllers/FlightController.php on line 43
+[17-Sep-2024 13:36:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 367005696 bytes) in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Controllers/FlightController.php on line 43
+[18-Sep-2024 06:03:11 UTC] PHP Fatal error:  Cannot redeclare Modules\Flight\Controllers\FlightController::convertCurrency() in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Controllers/FlightController.php on line 298
+[19-Sep-2024 10:40:45 UTC] searchResult or ONWARD not found in API response: Array
+(
+    [status] => Array
+        (
+            [success] => 
+            [httpStatus] => 400
+        )
+
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [errCode] => 1098
+                    [message] => searchQuery.paxInfo : Adult pax count cannot be zero.
+                )
+
+        )
+
+)
+
+[19-Sep-2024 10:43:39 UTC] searchResult or ONWARD not found in API response: Array
+(
+    [status] => Array
+        (
+            [success] => 
+            [httpStatus] => 400
+        )
+
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [errCode] => 1005
+                    [message] => searchQuery.routeInfos : Origin and Destination can't be same.
+                )
+
+        )
+
+)
+
+[20-Sep-2024 05:03:00 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Controllers/FlightController.php on line 3
+[20-Sep-2024 05:03:36 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Controllers/FlightController.php on line 3
+[20-Sep-2024 05:03:40 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Controllers/FlightController.php on line 3
+[24-Sep-2024 07:24:34 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/7d1a3d73846a08c385d30dc1e73d3d82.php on line 720
+[26-Sep-2024 03:17:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/7d1a3d73846a08c385d30dc1e73d3d82.php on line 357
+[26-Sep-2024 08:14:15 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/7d1a3d73846a08c385d30dc1e73d3d82.php on line 948
+[26-Sep-2024 08:16:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/7d1a3d73846a08c385d30dc1e73d3d82.php on line 949
+[30-Sep-2024 09:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:34:50 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:34:55 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:34:56 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:34:57 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:34:57 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:34:58 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:34:58 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:34:59 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[30-Sep-2024 09:35:11 America/Chicago] PHP Parse error:  syntax error, unexpected token "+=" in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 36
+[01-Oct-2024 07:58:40 UTC] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:28) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/8500415cf0830c6b187dfc672d477105.php on line 12
+[01-Oct-2024 08:00:06 UTC] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:28) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/8500415cf0830c6b187dfc672d477105.php on line 12
+[02-Oct-2024 10:16:10 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Admin/AllBookingController.php on line 23
+[04-Oct-2024 05:33:42 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/7d1a3d73846a08c385d30dc1e73d3d82.php on line 676
+[04-Oct-2024 05:34:05 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/7d1a3d73846a08c385d30dc1e73d3d82.php on line 676
+[04-Oct-2024 05:35:37 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/7d1a3d73846a08c385d30dc1e73d3d82.php on line 676
+[09-Oct-2024 07:36:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home4/tripgwdd/flight.tripgare.com/modules/Booking/Controllers/BookingController.php on line 213
+[09-Oct-2024 07:36:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home4/tripgwdd/flight.tripgare.com/modules/Booking/Controllers/BookingController.php on line 213
+[09-Oct-2024 07:36:32 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home4/tripgwdd/flight.tripgare.com/modules/Booking/Controllers/BookingController.php on line 213
+[09-Oct-2024 09:52:17 UTC] PHP Fatal error:  Cannot redeclare formatTime() (previously declared in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/990508a3395b95d44c3d269bec32f244.php:267) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/990508a3395b95d44c3d269bec32f244.php on line 267
+[18-Oct-2024 11:54:10 UTC] PHP Fatal error:  Label 'mailto' already defined in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Routes/admin.php on line 11
+[18-Oct-2024 11:54:18 UTC] PHP Fatal error:  Label 'mailto' already defined in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Routes/admin.php on line 11
+[18-Oct-2024 11:54:21 UTC] PHP Fatal error:  Label 'mailto' already defined in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Routes/admin.php on line 11
+[18-Oct-2024 11:55:01 UTC] PHP Fatal error:  Label 'mailto' already defined in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Routes/admin.php on line 11
+[18-Oct-2024 17:10:34 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/e63aab25e21e6a7eebf102d37de414e0.php on line 149
+[23-Oct-2024 08:22:58 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/8500415cf0830c6b187dfc672d477105.php on line 426
+[23-Oct-2024 09:27:00 America/Chicago] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1340
+[24-Oct-2024 00:08:43 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:08:46 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:08:49 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:08:57 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:09:22 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:09:25 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:09:27 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:09:31 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:09:36 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:09:37 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:09:59 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:10:02 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:10:04 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:10:05 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:10:06 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:10:15 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:10:19 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:11:12 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:11:46 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:11:46 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:11:50 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:11:53 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:12:06 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:12:14 America/Chicago] PHP Fatal error:  Cannot redeclare convertCurrency() (previously declared in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php:29) in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1325
+[24-Oct-2024 00:12:26 America/Chicago] PHP Parse error:  Unclosed '(' in /home4/tripgwdd/flight.tripgare.com/app/Helpers/AppHelper.php on line 1166
+[28-Oct-2024 11:48:19 UTC] PHP Deprecated:  Optional parameter $city declared before required parameter $country_id is implicitly treated as a required parameter in /home4/tripgwdd/flight.tripgare.com/modules/News/Controllers/CountryShowController.php on line 16
+[29-Oct-2024 10:58:02 UTC] PHP Fatal error:  Cannot declare class Modules\Flight\Controllers\SubscriptionController, because the name is already in use in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Admin/SubscriptionController.php on line 18
+[29-Oct-2024 10:58:06 UTC] PHP Fatal error:  Cannot declare class Modules\Flight\Controllers\SubscriptionController, because the name is already in use in /home4/tripgwdd/flight.tripgare.com/modules/Flight/Admin/SubscriptionController.php on line 18
+[06-Nov-2024 18:45:11 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Modules\Flight\ModuleProvider::boot() in /home4/tripgwdd/flight.tripgare.com/modules/Flight/ModuleProvider.php on line 22
+[06-Nov-2024 18:45:26 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Modules\Flight\ModuleProvider::boot() in /home4/tripgwdd/flight.tripgare.com/modules/Flight/ModuleProvider.php on line 22
+[06-Nov-2024 18:46:05 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Modules\Flight\ModuleProvider::boot() in /home4/tripgwdd/flight.tripgare.com/modules/Flight/ModuleProvider.php on line 22
+[09-Nov-2024 13:26:59 Asia/Kolkata] PHP Fatal error:  Declaration of Modules\Flight\ModuleProvider::register(Modules\Flight\SitemapHelper $sitemapHelper) must be compatible with Modules\ModuleServiceProvider::register() in /home4/tripgwdd/flight.tripgare.com/modules/Flight/ModuleProvider.php on line 62
+[09-Nov-2024 13:27:04 Asia/Kolkata] PHP Fatal error:  Declaration of Modules\Flight\ModuleProvider::register(Modules\Flight\SitemapHelper $sitemapHelper) must be compatible with Modules\ModuleServiceProvider::register() in /home4/tripgwdd/flight.tripgare.com/modules/Flight/ModuleProvider.php on line 62
+[09-Nov-2024 13:27:13 Asia/Kolkata] PHP Fatal error:  Declaration of Modules\Flight\ModuleProvider::register(Modules\Flight\SitemapHelper $sitemapHelper) must be compatible with Modules\ModuleServiceProvider::register() in /home4/tripgwdd/flight.tripgare.com/modules/Flight/ModuleProvider.php on line 62
+[09-Nov-2024 13:27:16 Asia/Kolkata] PHP Fatal error:  Declaration of Modules\Flight\ModuleProvider::register(Modules\Flight\SitemapHelper $sitemapHelper) must be compatible with Modules\ModuleServiceProvider::register() in /home4/tripgwdd/flight.tripgare.com/modules/Flight/ModuleProvider.php on line 62
+[20-Nov-2024 07:37:05 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/c2aaaaa54b953689e3ca3e5e4c11d83d.php on line 102
+[20-Nov-2024 07:47:00 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/c2aaaaa54b953689e3ca3e5e4c11d83d.php on line 110
+[21-Nov-2024 06:47:26 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/c2aaaaa54b953689e3ca3e5e4c11d83d.php on line 157
+[21-Nov-2024 13:38:41 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/fbc5d326a9eea4000ffe856178fcd2a7.php on line 385
+[21-Nov-2024 14:26:22 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/fbc5d326a9eea4000ffe856178fcd2a7.php on line 354
+[27-Nov-2024 07:58:43 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 131072 bytes) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/990508a3395b95d44c3d269bec32f244.php on line 402
+[27-Nov-2024 07:58:58 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 16384 bytes) in /home4/tripgwdd/flight.tripgare.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 52
+[27-Nov-2024 07:59:29 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /home4/tripgwdd/flight.tripgare.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 123
+[27-Nov-2024 07:59:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 8192 bytes) in /home4/tripgwdd/flight.tripgare.com/storage/framework/views/990508a3395b95d44c3d269bec32f244.php on line 131
+[26-Feb-2025 09:22:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home4/tripgwdd/flight.tripgare.com/modules/Email/Admin/EmailController.php on line 18
+[20-Mar-2025 10:47:29 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400560128 bytes) in /home4/tripgwdd/flight.tripgare.com/modules/News/Controllers/CheapController.php on line 148
